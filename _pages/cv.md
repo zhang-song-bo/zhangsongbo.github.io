@@ -15,7 +15,7 @@ Education
   
 Work experience
 ======
-Void
+void
 
 Skills
 ======
@@ -46,3 +46,4 @@ Teaching
   
 Service and leadership
 ======
+void

@@ -1,1 +1,5 @@
-# 记录机器学习的笔记的心得
+Notes
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
