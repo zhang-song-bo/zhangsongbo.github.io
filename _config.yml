@@ -22,7 +22,7 @@ repository               : "zhang-song-bo/zhangsongbo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://s21.ax1x.com/2025/03/16/pEaqV0I.jpg"
   name             : "Zhang Songbo"
   pronouns         : # example: "she/her"  
   bio              : "记录大学四年的点点滴滴"
